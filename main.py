@@ -47,4 +47,3 @@ top20 = word_counter.most_common(20)
 print("词频前20的词语：")
 for word, count in top20:
     print(f"{word}: {count}")
-    print("hello")
